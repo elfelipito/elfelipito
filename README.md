@@ -1,4 +1,4 @@
-🚀Em transição e construção de carreira na área de Tecnologia, com foco em Dados e Desenvolvimento de Software.
+🚀 Em transição e construção de carreira na área de Tecnologia, com foco em Dados e Desenvolvimento de Software.
 Minha trajetória profissional me proporcionou experiências em diferentes áreas, desenvolvendo disciplina, adaptabilidade, resolução de problemas e visão analítica — competências que hoje aplico na minha evolução no universo da tecnologia.
 Atualmente, direciono meus estudos e projetos para análise de dados, ciência de dados e desenvolvimento, buscando transformar informações em soluções inteligentes e eficientes. Tenho interesse especial em tecnologias voltadas à automação, programação, análise de dados e criação de sistemas que gerem impacto real.
 
