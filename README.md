@@ -14,7 +14,7 @@ Sou movido por aprendizado contínuo, desafios e inovação. Busco oportunidades
 📚 Atualmente estudando:
 Programação, bancos de dados, análise de dados e ferramentas voltadas ao desenvolvimento e tomada de decisão orientada por dados.
 
-Conecte-se comigo no LinkedIn
+Conecte-se comigo no LinkedIn.
 
 <a href="https://www.linkedin.com/in/felipe-chagas-santos-dev/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>  
